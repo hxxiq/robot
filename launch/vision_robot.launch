@@ -1,0 +1,4 @@
+<launch>
+  <!-- Launch the emotion detector node -->
+  <node name="emotion_detector" pkg="robot" type="emotion_detector.py" output="screen" />
+</launch>

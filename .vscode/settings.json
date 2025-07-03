@@ -1,0 +1,42 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mustar/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/mustar/colcon_ws/install/yolov5_ros2/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/turtlebot3_teleop/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/turtlebot3_example/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/speech_service/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/ros2_aruco_interfaces/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/ros2_aruco/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/opencv_ros2/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/open_manipulator_x_teleop/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/open_manipulator_msgs/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/mediapipe_pose/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/mediapipe_msgs/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/dynamixel_sdk_custom_interfaces/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/crane_plus_commander/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/astra_camera_msgs/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/airobot_interfaces/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mustar/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/mustar/colcon_ws/install/yolov5_ros2/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/turtlebot3_teleop/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/turtlebot3_example/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/speech_service/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/ros2_aruco_interfaces/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/ros2_aruco/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/opencv_ros2/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/open_manipulator_x_teleop/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/open_manipulator_msgs/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/mediapipe_pose/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/mediapipe_msgs/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/dynamixel_sdk_custom_interfaces/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/crane_plus_commander/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/astra_camera_msgs/lib/python3.8/site-packages",
+        "/home/mustar/colcon_ws/install/airobot_interfaces/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
